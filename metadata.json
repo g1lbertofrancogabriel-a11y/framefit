@@ -1,0 +1,10 @@
+{
+  "name": "FRAME-FIT",
+  "description": "Frame-Fit: An Information-Integrated Augmented Reality Kiosk for Eyewear Selection and Decision Support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
